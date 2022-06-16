@@ -68,8 +68,7 @@
         left: 25%;
     }
     
-
-    
+  
     
 }
 .table{
@@ -90,5 +89,9 @@ img{
     height: auto;
     margin:  auto;
     display: block;
+}
+
+a{
+    text-decoration: none;
 }
 
